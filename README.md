@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DSA in C++.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: its 2024
+- Join the World 19 years ago.
 
 <!---
 MOHIT-IITP/MOHIT-IITP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
