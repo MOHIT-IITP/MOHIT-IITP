@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MOHIT-IITP
-- 👀 I’m interested in Web Development/App Development.
-- 🌱 I’m currently learning DSA in C++.
+- 👀 I’m interested in Web Development/App Development/Competitive Programming.
+- 🌱 I’m currently learning DSA in C++ and Backend.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: its 2024
 - Join the World 19 years ago.
