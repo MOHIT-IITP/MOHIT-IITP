@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-iitp" alt="mohit-iitp" /></a> </p>
 
-- 🔭 I’m currently working on **CapStone Project (IITP)**
+- 🔭 I’m currently working on **Pet Shop website**
 
-- 🌱 I’m currently learning **DSA (C++ , Python)**
+- 🌱 I’m currently Doing "Competitive Programming with Cpp"**
 
 - 💬 Ask me about **front-end, gsap,lenis ,etc**
 
