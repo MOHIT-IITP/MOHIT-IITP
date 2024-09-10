@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-iitp" alt="mohit-iitp" /></a> </p>
 
-- 🔭 I’m currently working on **Pet Shop website**
+- 🔭 Current Contest rank : 1533 (LeetCode)
 
 - 🌱 I’m currently Doing "Competitive Programming with Cpp"**
 
-- 💬 Ask me about **front-end, gsap,lenis ,etc**
+- 💬 Ask me about **front-end, gsap,lenis ,dsa,react*
 
 - ⚡ Fun fact **its 2024!!**
 
