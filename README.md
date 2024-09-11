@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-iitp" alt="mohit-iitp" /></a> </p>
 
-- 🔭 Current Contest rank : 1533 (LeetCode)
+- 🔭 Current Contest rank : 1568 (LeetCode)
 
 - 🌱 I’m currently Doing "Competitive Programming with Cpp"**
 
