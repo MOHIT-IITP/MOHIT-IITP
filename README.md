@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-iitp&show_icons=true&theme=tokyonight&locale=en" alt="mohit-iitp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-iitp&theme=dark" alt="mohit-iitp" /></p>
+
+[![An image of @mohitiitp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitiitp)](https://holopin.io/@mohitiitp)
