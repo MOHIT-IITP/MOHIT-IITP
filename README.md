@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-</hr>  🔭 Current Contest rating : 1751(LeetCode)</h1>
-<h1 align="center"> 
+</hr>  
+
+<h1 align="center"> 🔭 Current Contest rating : 1751(LeetCode)</h1>
+</hr>
 <h3 align="center">A passionate web-developer & competitive programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-iitp&label=Profile%20views&color=b1bc62&style=flat" alt="mohit-iitp" /> </p>
