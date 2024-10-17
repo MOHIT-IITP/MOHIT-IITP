@@ -5,6 +5,8 @@
 </hr>
 <h3 align="center">A passionate web-developer & competitive programmer from India</h3>
 
+<img src="./img/github.gif" style="border-radius: 30px; " alt="">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-iitp&label=Profile%20views&color=b1bc62&style=flat" alt="mohit-iitp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-iitp" alt="mohit-iitp" /></a> </p>
