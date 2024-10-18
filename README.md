@@ -5,7 +5,7 @@
     </span>
   </a>
 </h1>
-<img src="./img/github.gif" >
+<img style="height:50%" src="./img/github.gif" >
 
 </hr>  
 
