@@ -5,8 +5,9 @@
     </span>
   </a>
 </h1>
-<img style="height:50%" src="./img/github.gif" >
-
+<div align="center">
+<img  style="width:60%" src="./img/github.gif" >
+</div>
 </hr>  
 
 <h2 align="center" "> 🔭 Current Contest rating : 1757 (LeetCode)</h2>
