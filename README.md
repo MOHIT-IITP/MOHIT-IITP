@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
+
 </hr>  
 
 <h2 align="center" "> 🔭 Current Contest rating : 1757 (LeetCode)</h2>
