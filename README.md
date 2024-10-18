@@ -5,7 +5,7 @@
     </span>
   </a>
 </h1>
-
+<img src="./img/github.gif" >
 
 </hr>  
 
