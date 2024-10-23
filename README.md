@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Mohit Kumar 🚀</h1>
 </hr>  
 <div>
-<img src="./img/Tumblr gif 1000x300.gif" width:1000px height:300px >
+<img src="./img/mohit.gif" width:1000px height:300px >
 </div>
 <h2 align="center" "> 🔭 Current Contest rating : max(1757) @LeetCode</h2>
 </hr>
