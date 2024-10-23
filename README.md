@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Mohit Kumar 🚀</h1>
 </hr>  
 
-<h2 align="center" "> 🔭 Current Contest rating : 1757 (LeetCode)</h2>
+<h2 align="center" "> 🔭 Current Contest rating : max(1757) @LeetCode</h2>
 </hr>
 <h3 align="center">A passionate web-developer & competitive programmer from India</h3>
 
