@@ -3,7 +3,7 @@
 <img src="./img/mohit.gif" width:1000px height:300px >
 </div>
 <h1 align="center">Hi I'm Mohit Kumar 🚀</h1>
-<h2 align="center" "> 🔭 Current Contest rating : max(1792) @LeetCode</h2>
+<h2 align="center" "> 🔭 Current Contest rating : max(1797) @LeetCode</h2>
 </hr>
 <h3 align="center">A passionate web-developer & competitive programmer from India</h3>
 
