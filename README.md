@@ -15,9 +15,7 @@
 
 
 
-- 🌱 I’m currently Doing "Competitive Programming with Cpp"**
-
-- 💬 Ask me about **front-end(react) , DSA(cpp), animations , etc*
+- 💬 Ask me about **front-end(reactjs) ,backend(nodejs),  DSA(cpp), animations , etc*
 
 - ⚡ Fun fact **its 2024!!**
 
