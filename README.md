@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-iitp" alt="mohit-iitp" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs, TypeScript, Flutter**
+- 🌱 I’m currently learning **NextJs, TypeScript, ReactNative**
 
 - 💬 Ask me about **react,**
 
