@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **front-end(reactjs) ,backend(nodejs),  DSA(cpp), animations , etc*
 
-- ⚡ Fun fact **its 2024!!**
+- ⚡ Suggestions **Use Home row mods and make your life easier!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
