@@ -3,7 +3,7 @@
 <img src="./img/mohit.gif" width:1000px height:300px >
 </div>
 <h1 align="center">Hi 👋, I'm Mohit kumar</h1>
-<h3 align="center">Backend developer & Linux enthusiast, building robust systems from the terminal up.</h3>
+<h3 align="center">Backend developer & Linux enthusiast (Vimmer), building robust systems from the terminal up.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-iitp" alt="mohit-iitp" /></a> </p>
 
