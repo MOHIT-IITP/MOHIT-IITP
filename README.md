@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Mohit Kumar (@mohiitp)</h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 Competitive Programmer | 🐧 Linux Enthusiast from India</h3>
+<h3 align="center"> Full Stack Developer | Competitive Programmer | 🐧 Linux Enthusiast from India</h3>
 
 ---
 
@@ -11,15 +11,7 @@ Currently exploring **system design, Golang**, and **high-performance backend de
 ---
 
 ### 🛠️ Tech Stack
-
-#### 🎨 Frontend
-Next.js ⚡ | React 
-
-#### ⚙️ Backend
-Node.js  | Express  | Python | Golang 
-
-#### 🗄️ Database
-MongoDB  | PostgreSQL  | MySQL | SupaBase | FireBase
+Next.js | MERN | Python | Golang | PostgreSQL  | MySQL | SupaBase | FireBase
 
 #### 🧰 Tools & Others
 Git  | Docker  | VS Code  | Neovim  | Linux 🐧
@@ -28,7 +20,7 @@ Git  | Docker  | VS Code  | Neovim  | Linux 🐧
 
 ### 🏆 Highlights
 - 💼 **Full Stack Developer** with experience in scalable systems & UI/UX integration.  
-- 🧩 **560+ problems solved on LeetCode** (max rating: 1820).  
+- 🧩 **600+ problems solved on LeetCode** (max rating: 1820).  
 - 🏅 **Open Source Contributor** — GSSoC & Hacktoberfest 2024.  
 - 🧠 **Selected Research Intern** at **IIIT Agartala** (AI/ML - Brain Tumor Detection).  
 - ⚡ Always eager to learn, build, and contribute to impactful projects.
