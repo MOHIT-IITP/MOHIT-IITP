@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm  Mohit Kumar <a href="https://linktr.ee/mohiitp"> @mohiitp </a></h1>
+<h1 align="center">👨‍🎓 Hey there, I'm  Mohit Kumar <a href="https://linktr.ee/mohiitp"> @mohiitp </a></h1>
 <h3 align="center"> Full Stack Developer | Competitive Programmer | 🐧 Linux Enthusiast from India</h3>
 
 ---
@@ -22,7 +22,8 @@ Git  | Docker  | VS Code  | Neovim  | Linux 🐧
 - 💼 **Full Stack Developer** with experience in scalable systems & UI/UX integration.  
 - 🧩 **600+ problems solved on LeetCode** (max rating: 1820).  
 - 🏅 **Open Source Contributor** — GSSoC & Hacktoberfest 2024.  
-- 🧠 **Selected Research Intern** at **IIIT Agartala** (AI/ML - Brain Tumor Detection).  
+- 🧠 **Selected Research Intern** at **IIIT Agartala** (AI/ML - Brain Tumor Detection).
+- 🧩 **Ex-FSD Intern** at **IIT Roorkee** (NextJs, Typescript, Redux, MUI).  
 - ⚡ Always eager to learn, build, and contribute to impactful projects.
 
 ---
