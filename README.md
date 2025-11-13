@@ -11,7 +11,7 @@ Currently exploring **system design, Golang**, and **high-performance backend de
 ---
 
 ### 🛠️ Tech Stack
-Next.js | MERN | Python | Golang | PostgreSQL  | MySQL | SupaBase | FireBase
+Next.js | MERN | Python | CPP | Java | Golang | PostgreSQL  | MySQL | SupaBase | FireBase
 
 #### 🧰 Tools & Others
 Git  | Docker  | VS Code  | Neovim  | Linux 🐧
