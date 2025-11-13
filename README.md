@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 I’m passionate about building **end-to-end web applications** — from sleek frontends to powerful backend systems.  
 I love crafting scalable digital experiences that are fast, efficient, and user-friendly.  
 Currently exploring **system design, Golang**, and **high-performance backend development**.
@@ -13,16 +13,16 @@ Currently exploring **system design, Golang**, and **high-performance backend de
 ### 🛠️ Tech Stack
 
 #### 🎨 Frontend
-Next.js ⚡ | React ⚛️ | JavaScript 💛 | Golang 🐹 | HTML5 🌐 | CSS3 🎨
+Next.js ⚡ | React 
 
 #### ⚙️ Backend
-Node.js 🟢 | Express 🚀 | Python 🐍
+Node.js  | Express  | Python | Golang 
 
 #### 🗄️ Database
-MongoDB 🍃 | PostgreSQL 🐘 | MySQL 💾
+MongoDB  | PostgreSQL  | MySQL | SupaBase | FireBase
 
 #### 🧰 Tools & Others
-Git 🔧 | Docker 🐳 | VS Code 🧩 | Neovim 💚 | Linux 🐧
+Git  | Docker  | VS Code  | Neovim  | Linux 🐧
 
 ---
 
