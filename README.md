@@ -1,5 +1,5 @@
 <h1 align="center">👨‍🎓 Hey there, I'm  Mohit Kumar <a href="https://linktr.ee/mohiitp"> @mohiitp </a></h1>
-<h3 align="center"> Full Stack Developer | Competitive Programmer | 🐧 Linux Enthusiast from India</h3>
+<h3 align="center"> Full Stack Developer | Competitive Programmer | 🐧 Linux & vim Enthusiast from India</h3>
 
 ---
 
