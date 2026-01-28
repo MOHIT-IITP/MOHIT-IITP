@@ -37,6 +37,6 @@ Git  | Docker  | VS Code  | Neovim  | Linux 🐧
 ---
 
 ### ⚡ Fun Fact
-> "I believe great code is like poetry — concise, elegant, and full of purpose. || Learning Colemak DHm ~`"
+> "I believe great code is like poetry — concise, elegant, and full of purpose."
 
 ---
