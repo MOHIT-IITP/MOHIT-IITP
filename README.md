@@ -1,4 +1,4 @@
-<h1 align="center">👨‍🎓 Hey there, I'm  Mohit Kumar <a href="https://linktr.ee/mohiitp"> @mohiitp </a></h1>
+<h1 align="center">👨‍🎓 Hey there, I'm  <a href="https://mohiitp.vercel.app">Mohit Kumar </a> <a href="https://linktr.ee/mohiitp"> @mohiitp </a></h1>
 <h3 align="center"> Full Stack Developer | Competitive Programmer | 🐧 Linux & vim Enthusiast from India</h3>
 
 ---
