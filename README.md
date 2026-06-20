@@ -30,7 +30,7 @@ Git  | Docker  | VS Code  | Neovim  | Linux 🐧
 
 ### 📫 Connect with Me
 
-- 📧 **Email:** [mohitiitp10@gmail.com](mailto:mohitiitp10@gmail.com)  
+- 📧 **Email:** [mohitkumar962003@gmail.com](mailto:mohitkumar962003@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/mohiitp](https://www.linkedin.com/in/mohiitp/)  
 - 🌐 **Portfolio:** [mohiitp.vercel.app](https://mohiitp.vercel.app/)  
 
